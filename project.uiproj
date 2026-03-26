@@ -1,0 +1,6 @@
+{
+  "Name": "Coronavirus_Stat-Alert_Bot",
+  "ProjectType": "Process",
+  "Description": "Scrapes Coronavirus stats (Total Cases, Total Deaths and Total Recovered) from a user inputted country and sends an update email to your friends/family with the scraped data. ",
+  "MainFile": "Main.xaml"
+}
