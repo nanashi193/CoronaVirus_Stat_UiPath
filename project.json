@@ -1,5 +1,5 @@
 {
-  "name": "Coronavirus_Stat-Alert_Bot",
+  "name": "UI2_Puppy_Gwen",
   "projectId": "317c49c5-ccc2-41d1-a652-94a09af403fc",
   "description": "Scrapes Coronavirus stats (Total Cases, Total Deaths and Total Recovered) from a user inputted country and sends an update email to your friends/family with the scraped data. ",
   "main": "Main.xaml",
@@ -15,7 +15,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "26.0.187.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.4",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,

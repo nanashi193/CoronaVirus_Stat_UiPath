@@ -1,5 +1,5 @@
 {
-  "Name": "Coronavirus_Stat-Alert_Bot",
+  "Name": "UI2_Puppy_Gwen",
   "ProjectType": "Process",
   "Description": "Scrapes Coronavirus stats (Total Cases, Total Deaths and Total Recovered) from a user inputted country and sends an update email to your friends/family with the scraped data. ",
   "MainFile": "Main.xaml"
